@@ -47,6 +47,7 @@ public class newclass {
      System.out.println(d.substring(7));
      
      
+     
     
       
      
